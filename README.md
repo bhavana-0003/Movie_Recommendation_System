@@ -101,16 +101,24 @@ Recommended Movies Displayed
 ## Installation
 
 Clone the repository
+```bash
 git clone https://github.com/bhavana-0003/Movie_Recommendation_System.git
+```
 
 Navigate to the project folder
+```bash
 cd Movie_Recommendation_System
+```
 
 Install the required packages
+```bash
 pip install -r requirements.txt
+```
 
 Run the application
+```bash
 streamlit run app.py
+```
 
 ## Future Enhancements
 - Movie trailer integration

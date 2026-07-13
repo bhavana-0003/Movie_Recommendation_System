@@ -35,6 +35,7 @@ The dataset includes movie information such as:
 - Overview
 
 ## Project Structure
+```
 FilmFinder/
 │
 ├── app.py
@@ -51,8 +52,10 @@ FilmFinder/
 │
 └── .streamlit/
     └── secrets.toml
+```
 
 ## Workflow
+```
 TMDB Dataset
       │
       ▼
@@ -85,6 +88,7 @@ Movie Posters & Details
       │
       ▼
 Recommended Movies Displayed
+```
 
 ## How It Works
 1. Select a movie from the dropdown list.
